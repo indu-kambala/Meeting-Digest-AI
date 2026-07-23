@@ -147,10 +147,6 @@ By default, Whisper will detect the language of the audio file and translate it 
 
 This flag tells Whisper to translate the audio into French regardless of the original language.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgements
 
 - **whisper.cpp** by Georgi Gerganov for the audio-to-text conversion.
